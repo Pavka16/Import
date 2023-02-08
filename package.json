@@ -1,0 +1,27 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "Вы успешно настроили загрузку модулей с *Webpack* и сборку приложения. Пришло время всё грамотно разделить на модули!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavka16/Import.git"
+  },
+  "author": "Pabel Nizovtsev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavka16/Import/issues"
+  },
+  "homepage": "https://github.com/Pavka16/Import#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2"
+  },
+  "dependencies": {
+    "core-js": "^3.27.2"
+  }
+}
